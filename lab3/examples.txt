@@ -1,0 +1,5 @@
+1 2 3
+example
+ex: open 
+file ex:
+Ex: home

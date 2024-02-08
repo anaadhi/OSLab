@@ -1,0 +1,5 @@
+chicken
+kiwi
+capybara
+cat
+ex: tiger lion
