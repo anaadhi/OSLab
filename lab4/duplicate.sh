@@ -1,2 +1,5 @@
+name=${1}
 
-cp $1 $1.copy
+newName=`echo $1 | sed "s/\./\_copy\./"`
+
+cp $1 $newName
